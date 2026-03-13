@@ -1,0 +1,14 @@
+C:\Users\Lenovo\aula0\bin\Debug\net9.0\aula0.exe
+C:\Users\Lenovo\aula0\bin\Debug\net9.0\aula0.deps.json
+C:\Users\Lenovo\aula0\bin\Debug\net9.0\aula0.runtimeconfig.json
+C:\Users\Lenovo\aula0\bin\Debug\net9.0\aula0.dll
+C:\Users\Lenovo\aula0\bin\Debug\net9.0\aula0.pdb
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.AssemblyInfoInputs.cache
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.AssemblyInfo.cs
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.dll
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\refint\aula0.dll
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.pdb
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\aula0.genruntimeconfig.cache
+C:\Users\Lenovo\aula0\obj\Debug\net9.0\ref\aula0.dll
